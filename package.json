@@ -1,0 +1,25 @@
+{
+  "name": "project-lvl1-s296",
+  "version": "1.0.0",
+  "description": "First haxlet BE JS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vyacheslav-Lapin/project-lvl1-s296.git"
+  },
+  "author": "Vyacheslav Lapin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vyacheslav-Lapin/project-lvl1-s296/issues"
+  },
+  "homepage": "https://github.com/Vyacheslav-Lapin/project-lvl1-s296#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
